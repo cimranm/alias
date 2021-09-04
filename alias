@@ -1,0 +1,25 @@
+
+# ---------- ALIASES ----------
+
+alias tc="timecard"
+alias k="kak"
+alias ra="ranger"
+alias zc="kak ~/.zshrc"
+alias vrc="kak ~/.vimrc"
+alias j="java"
+alias jc="javac"
+
+alias gp="git push"
+alias gpl="git pull"
+
+# Git
+alias g="git"
+alias gci="git commit -m"
+alias push="git push"
+alias pull="git pull"
+alias gad="git add"
+alias v="vim"
+alias zrc="kak ~/.zshrc"
+alias binf="cd ~/BINF3010"
+alias kc="kak ~/.config/kak/kakrc"
+alias krc="kc"
